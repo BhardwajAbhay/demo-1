@@ -6,3 +6,6 @@ Abhay Bhardwaj
 
 # student
 Delta Student
+
+# class
+12th
